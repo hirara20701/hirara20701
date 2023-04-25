@@ -4,6 +4,6 @@ I am Francis Migue Dela Cruz
   - Currently studying at FEU Institute of Technology
   - Microsoft Technology Certification
 
-# Badge = <a href="https://www.youracclaim.com/badges/dac02392-38d7-4b70-bb50-34f7110c8278/public_url"><img src ="mta-introduction-to-programming-using-java-certified-2021.png" width =128px></a>
+# Badge : <br> <a href="https://www.youracclaim.com/badges/dac02392-38d7-4b70-bb50-34f7110c8278/public_url"><img src ="mta-introduction-to-programming-using-java-certified-2021.png" width =128px></a>
 
 <a href="https://www.youracclaim.com/badges/dac02392-38d7-4b70-bb50-34f7110c8278/public_url"><img src ="https://images.credly.com/size/680x680/images/35985f2b-38d6-4b6f-8e63-42b17d3b5c69/DEVASC_Learning_Badge.png" width =128px></a>
